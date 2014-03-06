@@ -21,11 +21,20 @@ Para colaborar as ações abaixo podem ser realizadas:
 <li>Participar do projeto opensource opennetworkingblog.wordpress.com, aplicando os conhecimentos da JSR</li>
 </ol>
 
+As ações não se restringem a lista anterior, muito pelo contrário, novas iniciativas e ideias são muito bem vindas.
+
 <b>JSR 339</b>
 
 A JSR 339 está ativa porém já no estágio de Final Release. O trabalho de grupo será focado em divulgar a API e criar conteúdo de qualidade para chamar atenção de mais pessoas para a JSR.
 
-
-As ações não se restringem a lista anterior, muito pelo contrário, novas iniciativas e ideias são muito bem vindas.
-
+    Projeto - https://java.net/projects/jax-rs-spec   
+    Website - https://jax-rs-spec.java.net/
+    Wiki - https://java.net/projects/jax-rs-spec/pages/Home   
+    Source Code - https://java.net/projects/jax-rs-spec/sources   
+    Listas de email - https://java.net/projects/jax-rs-spec/lists
+    Issue Tracker - https://java.net/jira/browse/JAX_RS_SPEC
+    Downloads - https://java.net/projects/jax-rs-spec/downloads
+    Implementação de referência - https://jersey.java.net/
+    Contatos grupo de estudos: ivanjunckes@gmail.com / ricardo.longa@gmail.com
+    
 Todo o material criado pelo GujavaSC será também divulgado no java.net através do SouJava.
