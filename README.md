@@ -36,5 +36,10 @@ A JSR 339 está ativa porém já no estágio de Final Release. O trabalho de gru
     Downloads - https://java.net/projects/jax-rs-spec/downloads
     Implementação de referência - https://jersey.java.net/
     Contatos grupo de estudos: ivanjunckes@gmail.com / ricardo.longa@gmail.com
+
+Primeira reunião - http://youtu.be/meCOAlJMPLc 
+
+Segunda reunião - http://www.youtube.com/watch?v=9mz2_w7098o&feature=youtu.be
+
     
 Todo o material criado pelo GujavaSC será também divulgado no java.net através do SouJava.
