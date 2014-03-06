@@ -26,7 +26,7 @@ As ações não se restringem a lista anterior, muito pelo contrário, novas ini
 <b>JSR 339</b>
 
 A JSR 339 está ativa porém já no estágio de Final Release. O trabalho de grupo será focado em divulgar a API e criar conteúdo de qualidade para chamar atenção de mais pessoas para a JSR.
-
+    Backlog - https://github.com/gujavasc/adoptajsr/issues?milestone=1&state=open
     Projeto - https://java.net/projects/jax-rs-spec   
     Website - https://jax-rs-spec.java.net/
     Wiki - https://java.net/projects/jax-rs-spec/pages/Home   
