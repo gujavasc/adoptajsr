@@ -1,13 +1,13 @@
 Adote uma JSR com GujavaSC
 =========
 
-Como posso colaborar adotando a JSR 339?
+<b>Como posso colaborar adotando a JSR 339?</b>
 
 A JSR 339 está ativa porém já no estágio de Final Release. O trabalho de grupo será focado em divulgar a API e criar conteúdo de qualidade para chamar atenção de mais pessoas para a JSR.
 
 Para colaborar as ações abaixo podem ser realizadas:
 <ol>
-<li>Se inscrever na lista adoptajsr@gujavasc.org</li>
+<li>Se inscrever na lista <b>adoptajsr@gujavasc.org</b></li>
 <li>Mandar um email se apresentando e demonstrando o seu interesse em participar</li>
 <li>Ler a JSR 339</li>
 <li>Realizar as tarefas que estão no backlog da JSR</li>
