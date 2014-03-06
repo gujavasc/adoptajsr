@@ -13,23 +13,10 @@ Para colaborar as ações abaixo podem ser realizadas:
 <li>Realizar as tarefas que estão no backlog da JSR</li>
 <li>Informar o grupo da conclusão de uma tarefa</li>
 <li>Ajudar o grupo na divulgação do conteúdo criado</li>
-<li></li>
-<li></li>
-<li></li>
+<li>Participar das reuniões marcadas através da lista adoptajsr@gujavasc.org</li>
+<li>Participar da lista portugues@adoptajsr.java.net</li>
+<li>Participar do projeto opensource opennetworkingblog.wordpress.com, aplicando os conhecimentos da JSR</li>
 </ol>
-
-
-
-
-
-
-6 - 
-
-7 - Participar das reuniões marcadas através da lista adoptajsr@gujavasc.org
-
-8 - Participar da lista portugues@adoptajsr.java.net
-
-9 - Participar do projeto opensource opennetworkingblog.wordpress.com, aplicando os conhecimentos da JSR
 
 As ações não se restringem a lista anterior, muito pelo contrário, novas iniciativas e ideias são muito bem vindas.
 
