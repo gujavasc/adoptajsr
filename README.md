@@ -9,21 +9,21 @@ Para colaborar as ações abaixo podem ser realizadas:
 <ol>
 <li>Se inscrever na lista adoptajsr@gujavasc.org</li>
 <li>Mandar um email se apresentando e demonstrando o seu interesse em participar</li>
+<li>Ler a JSR 339</li>
+<li>Realizar as tarefas que estão no backlog da JSR</li>
+<li>Informar o grupo da conclusão de uma tarefa</li>
+<li>Ajudar o grupo na divulgação do conteúdo criado</li>
 <li></li>
 <li></li>
-Ler a JSR 339
+<li></li>
 </ol>
 
 
 
 
-3 - 
 
-4 - Realizar as tarefas que estão no backlog da JSR
 
-5 - Informar o grupo da conclusão de uma tarefa
-
-6 - Ajudar o grupo na divulgação do conteúdo criado
+6 - 
 
 7 - Participar das reuniões marcadas através da lista adoptajsr@gujavasc.org
 
