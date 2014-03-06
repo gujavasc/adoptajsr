@@ -7,17 +7,16 @@ JSRs adotadas até o momento:
 **Como posso colaborar adotando uma JSR?**
 
 Para colaborar as ações abaixo podem ser realizadas:
-<ol>
-<li>Se inscrever na lista **[adoptajsr@gujavasc.org]**</li>
-<li>Mandar um email se apresentando e demonstrando o seu interesse em participar</li>
-<li>Ler a JSR</li>
-<li>Realizar as tarefas que estão no backlog da JSR</li>
-<li>Informar o grupo da conclusão de uma tarefa</li>
-<li>Ajudar o grupo na divulgação do conteúdo criado</li>
-<li>Participar das reuniões marcadas através da lista [adoptajsr@gujavasc.org]</li>
-<li>Participar da lista portugues@adoptajsr.java.net</li>
-<li>Participar do projeto opensource http://opennetworkingblog.wordpress.com/, aplicando os conhecimentos da JSR</li>
-</ol>
+
+1. Se inscrever na lista **[adoptajsr@gujavasc.org]**
+2. Mandar um email se apresentando e demonstrando o seu interesse em participar
+3. Ler a JSR
+4. Realizar as tarefas que estão no backlog da JSR
+5. Informar o grupo da conclusão de uma tarefa
+6. Ajudar o grupo na divulgação do conteúdo criado
+7. Participar das reuniões marcadas através da lista [adoptajsr@gujavasc.org]
+8. Participar da lista portugues@adoptajsr.java.net
+9. Participar do projeto opensource http://opennetworkingblog.wordpress.com/, aplicando os conhecimentos da JSR
 
 As ações não se restringem a lista anterior, muito pelo contrário, novas iniciativas e ideias são muito bem vindas.
 
