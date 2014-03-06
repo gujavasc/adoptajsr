@@ -1,6 +1,11 @@
 Adote uma JSR com GujavaSC
 =========
 
+JSRs adotadas:
+<ul>
+<li>JSR 339 - JAX-RS 2.0: The Java API for RESTful Web Services</li>
+</ul>
+
 <b>Como posso colaborar adotando a JSR 339?</b>
 
 A JSR 339 está ativa porém já no estágio de Final Release. O trabalho de grupo será focado em divulgar a API e criar conteúdo de qualidade para chamar atenção de mais pessoas para a JSR.
