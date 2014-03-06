@@ -46,7 +46,8 @@ Outras JSRs podem ser adotadas por membros do grupo e o fluxo serguirá da segui
 <ol>
 <li>Ler outra JSR</b></li>
 <li>Angariar pessoas para participar</li>
-<li>Criar backlog</li>
+<li>Criar novo milestone para a JSR</li>
+<li>Cadastrar atividades no backlog</li>
 <li>Seguir ações citadas anteriormente</li>
 <li>Criar novas ações</li>
 </ol>
