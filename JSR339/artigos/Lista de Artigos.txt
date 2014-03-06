@@ -1,0 +1,2 @@
+Client API 
+http://www.gujavasc.org/2014/03/jax-rs-20-jersey-client-api-adoptajsr.html
