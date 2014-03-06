@@ -41,5 +41,15 @@ Primeira reunião - http://youtu.be/meCOAlJMPLc
 
 Segunda reunião - http://www.youtube.com/watch?v=9mz2_w7098o&feature=youtu.be
 
+----------------------------------------------------------------------------------------------------------------
+Outras JSRs podem ser adotadas por membros do grupo e o fluxo serguirá da seguinte maneira:
+<ol>
+<li>Ler outra JSR</b></li>
+<li>Angariar pessoas para participar</li>
+<li>Criar backlog</li>
+<li>Seguir ações citadas anteriormente</li>
+<li>Criar novas ações</li>
+</ol>
+
     
-Todo o material criado pelo GujavaSC será também divulgado no java.net através do SouJava.
+Todo o material criado pelo <b>GujavaSC</b> será também divulgado no <b>java.net</b> através do <b>SouJava</b>.
